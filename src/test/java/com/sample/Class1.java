@@ -26,7 +26,11 @@ public class Class1 {
 		System.out.println("5");
 
 	}
+ 
+    private void method6() {
+		System.out.println("6");
 
+	}
 
 }
 
